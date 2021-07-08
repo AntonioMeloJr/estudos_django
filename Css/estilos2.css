@@ -1,0 +1,23 @@
+body { background:rgb(233, 228, 228);
+    color: black
+}
+
+p {
+    color: red;
+    font-weight: bold;
+}
+.verde {
+    color: green;
+    font-size: 42px;
+}
+
+.azul{
+    color: blue;
+    font-size: 42px;
+}
+#p2 {
+    color: chocolate;
+    text-decoration: underline
+  
+    
+ }
